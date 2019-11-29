@@ -8,7 +8,7 @@ class User {
     }
 }
 
-const mickael = User('Mickael');
+const mickael = new User('Mickael');
 setTimeout(mickael.display, 10);
 
 mickael = null;
