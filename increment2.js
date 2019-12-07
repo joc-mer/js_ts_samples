@@ -1,4 +1,4 @@
-function increment2(a) {
+function increment2(foo) {
     foo.n += 3;
 }
 
